@@ -1,0 +1,2 @@
+# studyingVS-py
+VScodeからアップ
