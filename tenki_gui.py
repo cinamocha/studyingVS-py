@@ -1,7 +1,7 @@
 import tkinter as tk
 import requests
 
-API_KEY='956c863710dba6bfe09773254f4942fe'
+API_KEY='APIを入力'
 BASE_URL='https://api.openweathermap.org/data/2.5/weather'
 
 #ウィンドウの作成
