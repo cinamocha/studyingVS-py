@@ -3,7 +3,7 @@ import requests
 #前の天気情報のコードに湿度と風速を追加し、出力の仕方を変える！！！
 
 #openweathermapのapi key
-API_KEY = '956c863710dba6bfe09773254f4942fe'
+API_KEY = 'APIを入力'
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
 #ユーザーの入力、今回は天気を知りたい都市
